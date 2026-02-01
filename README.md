@@ -1,6 +1,7 @@
 # Projekt na programowanie smart kontraktów
 
-Repozytorium zawiera wdrożenie dwóch kontraktów na sieć testową **Sepolia**. Kod obu kontraktów został pomyślnie zweryfikowany w eksploratorze.
+## Opis projektu
+Celem projektu było przygotowanie i wdrożenie dwóch smart kontraktów w standardach ERC-20 oraz ERC-721 przy użyciu bibliotek OpenZeppelin. Repozytorium zawiera pełny kod źródłowy, testy jednostkowe oraz dokumentację wdrożenia na sieć testową **Sepolia**. Kod obu kontraktów został pomyślnie zweryfikowany w eksploratorze Etherscan.
 
 ## 1. Kontrakt ERC-20 (Token)
 * **Nazwa**: ProjectToken (PTK)
@@ -18,10 +19,7 @@ Repozytorium zawiera wdrożenie dwóch kontraktów na sieć testową **Sepolia**
 * **/contracts**: Zawiera pliki źródłowe `.sol` oraz wersje *flattened* użyte do weryfikacji na Etherscan.
 * **/tests**: Pliki testowe wygenerowane w Remix IDE. Testy potwierdzają poprawność funkcji `transfer` (ERC-20) oraz `safeMint` (ERC-721).
 
-## 4. Potwierdzenie działania
-Tokeny oraz NFT są widoczne w portfelu MetaMask pod adresem `0xf59d1c0cc3d72c208c3fa671ce562c5066d29d6a` na sieci Sepolia. Pierwszy token NFT (ID 0) został pomyślnie wybity funkcją `safeMint`.
-
-## Informacje dodatkowe
-* Wszystkie operacje zostały wykonane z portfela o adresie: 0xf59d1c0cc3d72c208c3fa671ce562c5066d29d6a.
-* Tokeny PTK oraz MNFT są poprawnie widoczne w MetaMask na sieci Sepolia.
-* Historia prac nad projektem jest dostępna w zakładce Commits (git log).
+## 4. Weryfikacja i historia projektu
+* **Adres portfela**: Wszystkie operacje (deployment, minting) zostały wykonane z adresu 0xf59d1c0cc3d72c208c3fa671ce562c5066d29d6a.
+* **MetaMask**: Tokeny PTK oraz MNFT są poprawnie zaimportowane i widoczne w portfelu na sieci Sepolia. Pierwszy token NFT (ID 0) został pomyślnie wybity funkcją safeMint.
+* **Historia zmian**: Pełna historia prac nad projektem, od wstępnych testów po finalną dokumentację, jest dostępna w zakładce Commits (git log) niniejszego repozytorium.
