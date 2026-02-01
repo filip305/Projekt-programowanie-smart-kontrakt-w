@@ -23,3 +23,10 @@ Celem projektu było przygotowanie i wdrożenie dwóch smart kontraktów w stand
 * **Adres portfela**: Wszystkie operacje (deployment, minting) zostały wykonane z adresu 0xf59d1c0cc3d72c208c3fa671ce562c5066d29d6a.
 * **MetaMask**: Tokeny PTK oraz MNFT są poprawnie zaimportowane i widoczne w portfelu na sieci Sepolia. Pierwszy token NFT (ID 0) został pomyślnie wybity funkcją safeMint.
 * **Historia zmian**: Pełna historia prac nad projektem, od wstępnych testów po finalną dokumentację, jest dostępna w zakładce Commits (git log) niniejszego repozytorium.
+
+### 5. Galeria - Potwierdzenie w MetaMask
+Poniżej znajdują się zrzuty ekranu potwierdzające widoczność zasobów w portfelu oraz poprawność wykonanych transakcji:
+
+| Tokeny ERC-20 | Kolekcja NFT | Drugi portfel (Odbiorca) |
+| :---: | :---: | :---: |
+| ![Tokeny](wallet_token.png) | ![NFT](wallet_nft.png) | ![Odbiorca](wallet_second.png) |
