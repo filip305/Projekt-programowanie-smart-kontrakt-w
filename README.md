@@ -1,4 +1,4 @@
-# Projekt Smart Kontrakty - Zaliczenie
+# Projekt na programowanie smart kontraktów
 
 Repozytorium zawiera wdrożenie dwóch kontraktów na sieć testową **Sepolia**. Kod obu kontraktów został pomyślnie zweryfikowany w eksploratorze.
 
@@ -6,15 +6,13 @@ Repozytorium zawiera wdrożenie dwóch kontraktów na sieć testową **Sepolia**
 * **Nazwa**: ProjectToken (PTK)
 * **Adres**: `0xdBE4C14a0DD56865b839d8eE4d34300d68f9612a`
 * **Eksplorator**: [Zobacz na Etherscan](https://sepolia.etherscan.io/address/0xdBE4C14a0DD56865b839d8eE4d34300d68f9612a)
-* **Status**: Zweryfikowany pomyślnie ✅
+* **Status**: Zweryfikowany pomyślnie
 
 ## 2. Kontrakt ERC-721 (NFT)
 * **Nazwa**: MyNFT (MNFT)
 * **Adres**: `0x4719c448Db33bB3dE71f211a8dea5402C1eD56e3`
 * **Eksplorator**: [Zobacz na Etherscan](https://sepolia.etherscan.io/address/0x4719c448Db33bB3dE71f211a8dea5402C1eD56e3)
-* **Status**: Zweryfikowany pomyślnie ✅
-
----
+* **Status**: Zweryfikowany pomyślnie
 
 ## 3. Struktura projektu i testy
 * **/contracts**: Zawiera pliki źródłowe `.sol` oraz wersje *flattened* użyte do weryfikacji.
