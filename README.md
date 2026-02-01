@@ -5,13 +5,13 @@ Repozytorium zawiera wdrożenie dwóch kontraktów na sieć testową **Sepolia**
 ## 1. Kontrakt ERC-20 (Token)
 * **Nazwa**: ProjectToken (PTK)
 * **Adres**: `0xdBE4C14a0DD56865b839d8eE4d34300d68f9612a`
-* **Eksplorator**: [Zobacz na Etherscan](https://sepolia.etherscan.io/address/0xdBE4C14a0DD56865b839d8eE4d34300d68f9612a)
+* **Eksplorator**: <https://sepolia.etherscan.io/address/0xdBE4C14a0DD56865b839d8eE4d34300d68f9612a>
 * **Status**: Zweryfikowany pomyślnie
 
 ## 2. Kontrakt ERC-721 (NFT)
 * **Nazwa**: MyNFT (MNFT)
 * **Adres**: `0x4719c448Db33bB3dE71f211a8dea5402C1eD56e3`
-* **Eksplorator**: [Zobacz na Etherscan](https://sepolia.etherscan.io/address/0x4719c448Db33bB3dE71f211a8dea5402C1eD56e3)
+* **Eksplorator**: <https://sepolia.etherscan.io/address/0x4719c448Db33bB3dE71f211a8dea5402C1eD56e3>
 * **Status**: Zweryfikowany pomyślnie
 
 ## 3. Struktura projektu i testy
